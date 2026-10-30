@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "한 입 크기로 잘라 먹는 리액트",
+    "subTitle": "자바스크립트 기초부터 애플리케이션 배포까지",
+    "description": "자바스크립트 기초부터 애플리케이션 배포까지\n처음 시작하기 좋은 리액트 입문서입니다.\n\n리액트의 기본을 익히고 다양한 앱을 직접 만들어 볼 수 있도록 구성한 책입니다.",
+    "author": "이정환",
+    "publisher": "프로그래밍인사이트",
+    "coverImgUrl": "https://shopping-phinf.pstatic.net/main_3888828/38888282618.20230913071643.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Clean Code(클린 코드)",
+    "subTitle": "애자일 소프트웨어 장인 정신",
+    "coverImgUrl": "https://shopping-phinf.pstatic.net/main_3247419/32474195676.20230718122457.jpg",
+    "author": "로버트 C. 마틴",
+    "publisher": "인사이트",
+    "description": "더 나은 코드를 만드는 방법을 다룬 책입니다.\n\n좋은 코드와 나쁜 코드를 비교하며, 읽기 쉽고 유지보수하기 좋은 코드를 작성하는 방법을 알려 줍니다."
+  },
+  {
+    "id": 3,
+    "title": "이펙티브 자바 (프로그래밍인사이트)",
+    "subTitle": "자바 플랫폼 모범 사례 완벽 가이드",
+    "coverImgUrl": "https://shopping-phinf.pstatic.net/main_3243623/32436239326.20230919125641.jpg",
+    "author": "조슈아 블로크",
+    "publisher": "인사이트",
+    "description": "자바 플랫폼 모범 사례 완벽 가이드 - Java 7, 8, 9 대응\n\n람다, 스트림 같은 최신 자바 기능을 활용하는 방법을 항목별로 정리한 책입니다."
+  }
+]
