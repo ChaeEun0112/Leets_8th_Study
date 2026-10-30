@@ -8,13 +8,13 @@ Leets 8기 활동과 함께 진행한 학습 내용 및 프로젝트를 기록�
 
 학습 과정에서 정리한 개념, 실습 코드 및 과제 등을 기록합니다.
 
-https://app.notion.com/p/8-Next-js-406ef8bac7a680dc92f1fc2f9df0a0fa?source=copy_link
+- [8기 Next.js 스터디 정리](https://app.notion.com/p/8-Next-js-406ef8bac7a680dc92f1fc2f9df0a0fa?source=copy_link)
 
 ## 🚀 Projects
 
 | 프로젝트 | 설명 | 기술 스택 |
 |---|---|---|
-| [Onebite Books](./onebite-books-page-router/) | Next.js Pages Router를 활용한 도서 서비스 프론트엔드 | Next.js, TypeScript, React |
+| [Onebite Books](./onebite-books-page-router/) | Next.js Pages Router를 활용한 도서 서비스 프론트엔드 | Next.js, React, TypeScript |
 
 ## 📂 Repository Structure
 
