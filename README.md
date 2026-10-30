@@ -7,6 +7,7 @@ Leets 8기 활동과 함께 진행한 학습 내용 및 프로젝트를 기록�
 ## 📚 Study
 
 학습 과정에서 정리한 개념, 실습 코드 및 과제 등을 기록합니다.
+https://app.notion.com/p/8-Next-js-406ef8bac7a680dc92f1fc2f9df0a0fa?source=copy_link
 
 ## 🚀 Projects
 
